@@ -1,0 +1,2 @@
+# Neutral-mutations-promote-unbounded-adaptation-after-clonal-interference.
+This repository contains the complete R pipeline and statistical analysis used in our manuscript on long-term adaptation and digital evolution.   The project investigates how mutation rates influence the topography of fitness landscapes, focusing on the emergence of epistatic bridges, neutral accumulation, and evolutionary traps.  

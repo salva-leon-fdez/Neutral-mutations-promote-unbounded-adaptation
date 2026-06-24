@@ -2,7 +2,7 @@
 
 **Authors:** Salvador León Fernández, Miguel Ángel Fortuna Alcolado
 
-This repository contains the code used to process the raw simulation data and to reproduce the figures and statistical analyses presented in the paper.
+This repository contains the code used to process the raw simulation data and to reproduce the figures and statistical analyses presented in our study.
 
 ---
 
